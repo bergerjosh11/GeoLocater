@@ -31,8 +31,7 @@ class User
   private
 
   def valid_login?
-    # Replace with your authentication logic (e.g., checking email and password)
-    true # Replace this with your actual validation logic
+    true # Replace this with actual validation logic
   end
 end
 
